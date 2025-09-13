@@ -1,0 +1,466 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "generator": "AI Banter Timeline Generator",
+    "source": "FforFamilyEp04.txt",
+    "generatedAt": "2025-09-13T02:47:01.100Z",
+    "totalSegments": 30,
+    "totalComments": 25
+  },
+  "segments": [
+    {
+      "id": 1,
+      "start": 13000,
+      "end": 27000,
+      "gist": "Colt Luger! Starring Reid Harrison. With Edison...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 16987,
+          "role": "thoughtful",
+          "text": "\"Reid Harrison shines in Colt Luger! Can't wait to see what 'Eeny Meeny Meiny Dead' has in store!\""
+        },
+        {
+          "t": 22522,
+          "role": "curious",
+          "text": "\"Reid Harrison's charisma lights up Colt Luger! Ready for 'Eeny Meeny Meiny Dead' thrill!\""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "start": 41000,
+      "end": 72000,
+      "gist": "It's all over, Mr. Big. You'll spend the rest o...",
+      "tags": [
+        "general"
+      ],
+      "banters": []
+    },
+    {
+      "id": 3,
+      "start": 88000,
+      "end": 91000,
+      "gist": "♪ Come and get your love ♪",
+      "tags": [
+        "positive",
+        "romance"
+      ],
+      "banters": []
+    },
+    {
+      "id": 4,
+      "start": 128000,
+      "end": 286000,
+      "gist": "Oh, shit, I'm still pregnant. ♪ Life is getting...",
+      "tags": [
+        "positive",
+        "negative",
+        "neutral"
+      ],
+      "banters": [
+        {
+          "t": 232693,
+          "role": "excited",
+          "text": "生活充满意外，别怕！期待下一个转折点~"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "start": 389000,
+      "end": 521000,
+      "gist": "Oh, my God. Vivian brought all of Plast-a-Ware ...",
+      "tags": [
+        "comedy"
+      ],
+      "banters": []
+    },
+    {
+      "id": 7,
+      "start": 525000,
+      "end": 551000,
+      "gist": "Oh-ho, we're gonna get you. You're not gonna ge...",
+      "tags": [
+        "positive"
+      ],
+      "banters": [
+        {
+          "t": 539740,
+          "role": "thoughtful",
+          "text": "\"Reid Harrison's charm steals the show in Colt Luger! Excited for 'Eeny Meeny Meiny Dead' twist!\""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "start": 555000,
+      "end": 813000,
+      "gist": "Oh, I'll tell you, Bill, this town has changed....",
+      "tags": [
+        "positive",
+        "comedy",
+        "romance",
+        "plot"
+      ],
+      "banters": [
+        {
+          "t": 635450,
+          "role": "curious",
+          "text": "\"Reid Harrison's wit shines in Colt Luger! Can't wait for the next hilarious twist!\""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "start": 820000,
+      "end": 827000,
+      "gist": "Guys, get ready to have your minds blown. Our d...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 823256,
+          "role": "humorous",
+          "text": "Buckle up, Reid Harrison's humor is a rollercoaster ride in Colt Luger! Anticipating the next twist!"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "start": 831000,
+      "end": 858000,
+      "gist": "-It's Vic. -He's alive! I ate some green chicke...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 844835,
+          "role": "excited",
+          "text": "\"Reid Harrison's humor is a wild ride in Colt Luger! Can't wait for more twists and turns!\""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "start": 863000,
+      "end": 873000,
+      "gist": "Aw, fuck it, I'll go first. He doesn't want to ...",
+      "tags": [
+        "music"
+      ],
+      "banters": []
+    },
+    {
+      "id": 12,
+      "start": 878000,
+      "end": 1010000,
+      "gist": "You pulled my fucking heart out and fucking flu...",
+      "tags": [
+        "negative",
+        "neutral"
+      ],
+      "banters": []
+    },
+    {
+      "id": 13,
+      "start": 1022000,
+      "end": 1054000,
+      "gist": "That's cool. Yeah, no shit. That's why I do it....",
+      "tags": [
+        "negative",
+        "plot"
+      ],
+      "banters": []
+    },
+    {
+      "id": 14,
+      "start": 1058000,
+      "end": 1061000,
+      "gist": "Okay, Anthony. Now shoot the puck at me, and I'...",
+      "tags": [
+        "neutral"
+      ],
+      "banters": []
+    },
+    {
+      "id": 15,
+      "start": 1066000,
+      "end": 1084000,
+      "gist": "-Hockey! -Ah! Stop it! Ah! My hockey sweater! w...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1075078,
+          "role": "curious",
+          "text": "\"Reid Harrison's humor hits the target in Colt Luger! Ready for more laughs and surprises!\""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "start": 1088000,
+      "end": 1093000,
+      "gist": "I inhaled so much smoke I thought you'd finally...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1089535,
+          "role": "humorous",
+          "text": "Inhaled so much smoke, thought you'd finally quit the hot mess parade!"
+        },
+        {
+          "t": 1091166,
+          "role": "thoughtful",
+          "text": "Light up the humor in Reid Harrison's Colt Luger! Smoke signals of laughter ahead!"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "start": 1098000,
+      "end": 1133000,
+      "gist": "Goddamn polio vaccine. We all thought it was a ...",
+      "tags": [
+        "negative",
+        "neutral"
+      ],
+      "banters": []
+    },
+    {
+      "id": 18,
+      "start": 1142000,
+      "end": 1148000,
+      "gist": "♪ I've got a good thing on my mind ♪ ♪ And now ...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1143754,
+          "role": "excited",
+          "text": "\"Mr. Happy Guy spreading joy and laughter like confetti! 🎉\""
+        },
+        {
+          "t": 1145991,
+          "role": "curious",
+          "text": "\"Mr. Happy Guy: spreading smiles faster than a confetti cannon! 🎉\""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "start": 1153000,
+      "end": 1202000,
+      "gist": "Do you think Kevin's song has what it takes? - ...",
+      "tags": [
+        "romance",
+        "music"
+      ],
+      "banters": []
+    },
+    {
+      "id": 20,
+      "start": 1206000,
+      "end": 1281000,
+      "gist": "He brokeded the candy machine. One time, when I...",
+      "tags": [
+        "positive",
+        "romance"
+      ],
+      "banters": []
+    },
+    {
+      "id": 21,
+      "start": 1286000,
+      "end": 1305000,
+      "gist": "I was 17 years old. Stan... I'm so sorry. What ...",
+      "tags": [
+        "general"
+      ],
+      "banters": []
+    },
+    {
+      "id": 22,
+      "start": 1309000,
+      "end": 1341000,
+      "gist": "I wish I had done the same for Sue. Get the fuc...",
+      "tags": [
+        "negative"
+      ],
+      "banters": [
+        {
+          "t": 1320944,
+          "role": "humorous",
+          "text": "\"Mr. Happy Guy bringing sunshine to a stormy scene! 🌞\""
+        },
+        {
+          "t": 1329189,
+          "role": "curious",
+          "text": "\"Mr. Happy Guy: bringing a ray of sunshine to this gloomy drama! 🌞\""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "start": 1349000,
+      "end": 1384000,
+      "gist": "Boys, don't grow up to hate me. Your daddy love...",
+      "tags": [
+        "negative",
+        "neutral"
+      ],
+      "banters": [
+        {
+          "t": 1361642,
+          "role": "thoughtful",
+          "text": "\"Mr. Happy Guy: turning chaos into a comedy show! 🎭\""
+        },
+        {
+          "t": 1371951,
+          "role": "excited",
+          "text": "\"Mr. Happy Guy: adding a splash of joy to the chaos! 🌈\""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "start": 1393000,
+      "end": 1476000,
+      "gist": "Sue, you never said \"baby\" once. -I guess I did...",
+      "tags": [
+        "general"
+      ],
+      "banters": []
+    },
+    {
+      "id": 25,
+      "start": 1482000,
+      "end": 1497000,
+      "gist": ", you'll be a pro in no time with these skates,...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1486759,
+          "role": "humorous",
+          "text": "\"Mr. Happy Guy: sprinkling laughter in the rink! 😄\""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "start": 1501000,
+      "end": 1547000,
+      "gist": "Steigerwald facing the four, six, seven, nine, ...",
+      "tags": [
+        "positive",
+        "romance"
+      ],
+      "banters": []
+    },
+    {
+      "id": 27,
+      "start": 1551000,
+      "end": 1605000,
+      "gist": "I-- I never knew that you-- - -Ah, does it ever...",
+      "tags": [
+        "neutral"
+      ],
+      "banters": [
+        {
+          "t": 1571564,
+          "role": "curious",
+          "text": "\"Mr. Happy Guy: bringing a ray of sunshine to the chaos! ☀️\""
+        },
+        {
+          "t": 1589606,
+          "role": "thoughtful",
+          "text": "\"Mr. Happy Guy: spreading smiles in the whirlwind! 😃\""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "start": 1614000,
+      "end": 1617000,
+      "gist": "Maybe I am sitting in a tree.",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1615051,
+          "role": "excited",
+          "text": "\"Ms. Cheerful Gal: adding a touch of joy to the treetop! 🌳\""
+        },
+        {
+          "t": 1615992,
+          "role": "humorous",
+          "text": "\"Tree hugger extraordinaire: finding peace and tranquility up high! 🌿\""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "start": 1630000,
+      "end": 1641000,
+      "gist": "You're listening to another Sad Sack Saturday o...",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1634191,
+          "role": "curious",
+          "text": "\"Bringing some sunshine to the Sad Sack Saturday gloom! 🌞\""
+        },
+        {
+          "t": 1637177,
+          "role": "thoughtful",
+          "text": "\"Embracing the gloom with a smile on Sad Sack Saturday! ☔️\""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "start": 1650000,
+      "end": 1673000,
+      "gist": "♪ Life is getting better every day Oh, yeah ♪ ♪...",
+      "tags": [
+        "general"
+      ],
+      "banters": []
+    },
+    {
+      "id": 31,
+      "start": 1680000,
+      "end": 1683000,
+      "gist": "Hockey!",
+      "tags": [
+        "general"
+      ],
+      "banters": [
+        {
+          "t": 1680941,
+          "role": "excited",
+          "text": "\"Slapshot of joy on ice! Let's skate into a hockey frenzy! 🏒\""
+        },
+        {
+          "t": 1681892,
+          "role": "humorous",
+          "text": "\"Chasing puck thrills, scoring ice chills! Let's glide with hockey delight! ❄️🏒\""
+        }
+      ]
+    }
+  ]
+}
